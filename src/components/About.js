@@ -25,7 +25,7 @@ function About() {
           </div>
         </div>
         <div className="col-md-5">
-          <img id="pictureself" src={Pic} alt="Charvi" />
+          <img id="pictureself" src={Pic} alt="Saiyam" />
         </div>
       </div>
     </div>
